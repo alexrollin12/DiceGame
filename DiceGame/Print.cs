@@ -48,7 +48,7 @@ public class Print
         Console.WriteLine($"*NUMBER OF TRIES->{counter}---*");
         Console.WriteLine($"*{message}--------------*");
         Console.WriteLine($"*----------------------*");
-        Console.WriteLine($"*GIVE UP? [Y]----------*");
+        Console.WriteLine($"*GIVE UP? PRESS->[0]---*");
         Console.Write("Answer --> ");
     }
     

@@ -1,3 +1,4 @@
+using System.Diagnostics.Tracing;
 using System.Dynamic;
 using System.Security.Cryptography.X509Certificates;
 using System.Xml;
@@ -10,12 +11,12 @@ public class Game
     {
         int counter = 0;
         PrintGame(counter);
-        int userAnswer = 0;
+        int userAnswer = -1;
         dice.Throw();
         while (userAnswer != dice.DiceValue)
         {
             userAnswer = GetAnswer();
-            if (Convert.ToChar(userAnswer) == 'Y') // THIS DOESNT WORK NEED TO FIGURE IT OUT
+            if (userAnswer == 0)
             {
                 break;
             }
@@ -36,8 +37,11 @@ public class Game
                 PrintGame(counter,"GO HIGHER");
             }
         }
-        PrintVictory(counter);
-        GetChoice();
+        if (userAnswer == dice.DiceValue)
+        {
+            PrintVictory(counter);
+            GetChoice();
+        }
     }
     public static Dice CreateDice(int faceNumber)
     {
