@@ -16,6 +16,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "DiceLib": "1.0.0",
           "MultiDiceLib": "1.0.0"
         },
         "compile": {
@@ -28,6 +29,9 @@
       "MultiDiceLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DiceLib": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MultiDiceLib.dll": {}
         },

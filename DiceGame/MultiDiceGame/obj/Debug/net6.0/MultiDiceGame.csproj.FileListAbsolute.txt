@@ -16,3 +16,5 @@
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceLib.dll
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceLib.pdb
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.csproj.CopyComplete
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/DiceLib.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/DiceLib.pdb

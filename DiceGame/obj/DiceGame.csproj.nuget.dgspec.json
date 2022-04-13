@@ -140,6 +140,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj": {
+                "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj"
+              },
               "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/MultiDiceLib.csproj": {
                 "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/MultiDiceLib.csproj"
               }
@@ -195,7 +198,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj": {
+                "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

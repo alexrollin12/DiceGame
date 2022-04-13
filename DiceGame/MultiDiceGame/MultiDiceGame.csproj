@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\DiceLib\DiceLib.csproj" />
       <ProjectReference Include="..\MultiDiceLib\MultiDiceLib.csproj" />
     </ItemGroup>
 

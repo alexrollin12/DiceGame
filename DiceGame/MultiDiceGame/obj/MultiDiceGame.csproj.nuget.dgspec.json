@@ -4,6 +4,58 @@
     "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/MultiDiceGame.csproj": {}
   },
   "projects": {
+    "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj",
+        "projectName": "DiceLib",
+        "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj",
+        "packagesPath": "/home/hobo/.nuget/packages/",
+        "outputPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hobo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/MultiDiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,6 +78,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj": {
+                "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj"
+              },
               "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/MultiDiceLib.csproj": {
                 "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/MultiDiceLib.csproj"
               }
@@ -81,7 +136,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj": {
+                "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

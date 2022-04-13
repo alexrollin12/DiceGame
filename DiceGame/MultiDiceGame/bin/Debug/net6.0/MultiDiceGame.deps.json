@@ -8,13 +8,22 @@
     ".NETCoreApp,Version=v6.0": {
       "MultiDiceGame/1.0.0": {
         "dependencies": {
+          "DiceLib": "1.0.0",
           "MultiDiceLib": "1.0.0"
         },
         "runtime": {
           "MultiDiceGame.dll": {}
         }
       },
+      "DiceLib/1.0.0": {
+        "runtime": {
+          "DiceLib.dll": {}
+        }
+      },
       "MultiDiceLib/1.0.0": {
+        "dependencies": {
+          "DiceLib": "1.0.0"
+        },
         "runtime": {
           "MultiDiceLib.dll": {}
         }
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "MultiDiceGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiceLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

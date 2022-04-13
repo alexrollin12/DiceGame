@@ -10,3 +10,6 @@
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/obj/Debug/net6.0/refint/MultiDiceLib.dll
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/obj/Debug/net6.0/MultiDiceLib.pdb
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/obj/Debug/net6.0/ref/MultiDiceLib.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/bin/Debug/net6.0/DiceLib.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/bin/Debug/net6.0/DiceLib.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceLib/obj/Debug/net6.0/MultiDiceLib.csproj.CopyComplete

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MultiDiceLib/1.0.0": {
+        "dependencies": {
+          "DiceLib": "1.0.0"
+        },
         "runtime": {
           "MultiDiceLib.dll": {}
+        }
+      },
+      "DiceLib/1.0.0": {
+        "runtime": {
+          "DiceLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MultiDiceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiceLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
