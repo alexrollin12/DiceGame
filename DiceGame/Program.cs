@@ -45,11 +45,6 @@ namespace DiceGame
                             GamePlay(CustomDice());
                             break;
                         }
-                        default:
-                        {
-                            Console.WriteLine("INVALID");
-                            break;
-                        }
                     }
                 }
             }
