@@ -1,0 +1,12 @@
+/home/hobo/Projet Random/DiceGame/DiceLib/bin/Debug/net6.0/DiceLib.deps.json
+/home/hobo/Projet Random/DiceGame/DiceLib/bin/Debug/net6.0/DiceLib.dll
+/home/hobo/Projet Random/DiceGame/DiceLib/bin/Debug/net6.0/DiceLib.pdb
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/DiceLib.csproj.AssemblyReference.cache
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/DiceLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/DiceLib.AssemblyInfoInputs.cache
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/DiceLib.AssemblyInfo.cs
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/DiceLib.csproj.CoreCompileInputs.cache
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/DiceLib.dll
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/refint/DiceLib.dll
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/DiceLib.pdb
+/home/hobo/Projet Random/DiceGame/DiceLib/obj/Debug/net6.0/ref/DiceLib.dll

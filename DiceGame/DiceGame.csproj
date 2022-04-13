@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="DiceLib\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="DiceLib\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="DiceLib\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="DiceLib\DiceLib.csproj" />
+    </ItemGroup>
+
+</Project>
