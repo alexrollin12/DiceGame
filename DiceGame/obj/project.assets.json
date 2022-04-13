@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hobo/Projet Random/DiceGame/DiceGame.csproj",
+      "projectUniqueName": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceGame.csproj",
       "projectName": "DiceGame",
-      "projectPath": "/home/hobo/Projet Random/DiceGame/DiceGame.csproj",
+      "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceGame.csproj",
       "packagesPath": "/home/hobo/.nuget/packages/",
-      "outputPath": "/home/hobo/Projet Random/DiceGame/obj/",
+      "outputPath": "/home/hobo/GitKraken/DiceGame/DiceGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hobo/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/hobo/Projet Random/DiceGame/DiceLib/DiceLib.csproj": {
-              "projectPath": "/home/hobo/Projet Random/DiceGame/DiceLib/DiceLib.csproj"
+            "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj": {
+              "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj"
             }
           }
         }

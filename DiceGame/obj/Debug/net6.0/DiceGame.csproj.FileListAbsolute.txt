@@ -16,3 +16,21 @@
 /home/hobo/Projet Random/DiceGame/obj/Debug/net6.0/DiceGame.pdb
 /home/hobo/Projet Random/DiceGame/obj/Debug/net6.0/DiceGame.genruntimeconfig.cache
 /home/hobo/Projet Random/DiceGame/obj/Debug/net6.0/ref/DiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.deps.json
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.runtimeconfig.json
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/DiceLib.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/DiceLib.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.csproj.AssemblyReference.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfoInputs.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfo.cs
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.csproj.CoreCompileInputs.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.csproj.CopyComplete
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/refint/DiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.genruntimeconfig.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/ref/DiceGame.dll

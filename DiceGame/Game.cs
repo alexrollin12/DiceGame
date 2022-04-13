@@ -20,11 +20,13 @@ public class Game
                 break;
             }
             counter++;
+            /* DEBUG WRITELINE
             Console.WriteLine("!!");
             Console.WriteLine($"Face number :" + dice.FaceNumber);
             Console.WriteLine($"Dice Value : " + dice.DiceValue);
             Console.WriteLine($"User Answer : {userAnswer}");
             Console.WriteLine("!!");
+            */
             if (userAnswer > dice.DiceValue)
             {
                 PrintGame(counter,"GO LOWER");

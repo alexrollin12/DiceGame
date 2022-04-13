@@ -29,12 +29,12 @@ namespace DiceGame
                                 }
                                 case '2':
                                 {
-                                    GamePlay(CreateDice(24));
+                                    GamePlay(CreateDice(12));
                                     break;
                                 }
                                 case '3':
                                 {
-                                    GamePlay(CreateDice(64));
+                                    GamePlay(CreateDice(24));
                                     break;
                                 }
                             }

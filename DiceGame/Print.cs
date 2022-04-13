@@ -27,8 +27,8 @@ public class Print
         Console.Clear();
         Console.WriteLine("*---!MAKE A CHOICE!----*");
         Console.WriteLine("*6  FACE DICE ->[1]----*");
-        Console.WriteLine("*24 FACE DICE ->[2]----*");
-        Console.WriteLine("*64 FACE DICE ->[3]----*");
+        Console.WriteLine("*12 FACE DICE ->[2]----*");
+        Console.WriteLine("*24 FACE DICE ->[3]----*");
         Console.WriteLine("*----------------------*");
     }
     public static void PrintCustom()

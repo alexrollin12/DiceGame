@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hobo/Projet Random/DiceGame/DiceLib/DiceLib.csproj",
+      "projectUniqueName": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj",
       "projectName": "DiceLib",
-      "projectPath": "/home/hobo/Projet Random/DiceGame/DiceLib/DiceLib.csproj",
+      "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj",
       "packagesPath": "/home/hobo/.nuget/packages/",
-      "outputPath": "/home/hobo/Projet Random/DiceGame/DiceLib/obj/",
+      "outputPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hobo/.nuget/NuGet/NuGet.Config"
