@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceLib", "DiceLib\DiceLib.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDiceGame", "MultiDiceGame\MultiDiceGame.csproj", "{F626FCF2-43DE-44EB-A361-2E924161604C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDiceLib", "MultiDiceLib\MultiDiceLib.csproj", "{832F6A76-C377-40A3-850F-EDB918640EC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F626FCF2-43DE-44EB-A361-2E924161604C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F626FCF2-43DE-44EB-A361-2E924161604C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F626FCF2-43DE-44EB-A361-2E924161604C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832F6A76-C377-40A3-850F-EDB918640EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832F6A76-C377-40A3-850F-EDB918640EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832F6A76-C377-40A3-850F-EDB918640EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832F6A76-C377-40A3-850F-EDB918640EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

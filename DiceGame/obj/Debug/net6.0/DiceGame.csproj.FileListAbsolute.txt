@@ -39,3 +39,5 @@
 /home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame
 /home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame.dll
 /home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceLib.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceLib.pdb

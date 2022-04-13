@@ -10,21 +10,25 @@
     <ItemGroup>
       <Compile Remove="DiceLib\**" />
       <Compile Remove="MultiDiceGame\**" />
+      <Compile Remove="MultiDiceLib\**" />
     </ItemGroup>
 
     <ItemGroup>
       <EmbeddedResource Remove="DiceLib\**" />
       <EmbeddedResource Remove="MultiDiceGame\**" />
+      <EmbeddedResource Remove="MultiDiceLib\**" />
     </ItemGroup>
 
     <ItemGroup>
       <None Remove="DiceLib\**" />
       <None Remove="MultiDiceGame\**" />
+      <None Remove="MultiDiceLib\**" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="DiceLib\DiceLib.csproj" />
       <ProjectReference Include="MultiDiceGame\MultiDiceGame.csproj" />
+      <ProjectReference Include="MultiDiceLib\MultiDiceLib.csproj" />
     </ItemGroup>
 
 </Project>

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MultiDiceGame/1.0.0": {
+        "dependencies": {
+          "MultiDiceLib": "1.0.0"
+        },
         "runtime": {
           "MultiDiceGame.dll": {}
+        }
+      },
+      "MultiDiceLib/1.0.0": {
+        "runtime": {
+          "MultiDiceLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MultiDiceGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultiDiceLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

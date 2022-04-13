@@ -13,3 +13,6 @@
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.pdb
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.genruntimeconfig.cache
 /home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/ref/MultiDiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceLib.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceLib.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.csproj.CopyComplete
