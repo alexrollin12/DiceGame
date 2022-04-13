@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/DiceLib.dll": {}
         }
+      },
+      "MultiDiceGame/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MultiDiceGame.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiDiceGame.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "DiceLib/DiceLib.csproj",
       "msbuildProject": "DiceLib/DiceLib.csproj"
+    },
+    "MultiDiceGame/1.0.0": {
+      "type": "project",
+      "path": "MultiDiceGame/MultiDiceGame.csproj",
+      "msbuildProject": "MultiDiceGame/MultiDiceGame.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DiceLib >= 1.0.0"
+      "DiceLib >= 1.0.0",
+      "MultiDiceGame >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +69,9 @@
           "projectReferences": {
             "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj": {
               "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/DiceLib/DiceLib.csproj"
+            },
+            "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/MultiDiceGame.csproj": {
+              "projectPath": "/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/MultiDiceGame.csproj"
             }
           }
         }

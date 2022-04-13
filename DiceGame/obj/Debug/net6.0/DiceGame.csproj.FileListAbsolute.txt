@@ -34,3 +34,8 @@
 /home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.pdb
 /home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.genruntimeconfig.cache
 /home/hobo/GitKraken/DiceGame/DiceGame/obj/Debug/net6.0/ref/DiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame.deps.json
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame.runtimeconfig.json
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/bin/Debug/net6.0/MultiDiceGame.pdb

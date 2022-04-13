@@ -9,18 +9,22 @@
 
     <ItemGroup>
       <Compile Remove="DiceLib\**" />
+      <Compile Remove="MultiDiceGame\**" />
     </ItemGroup>
 
     <ItemGroup>
       <EmbeddedResource Remove="DiceLib\**" />
+      <EmbeddedResource Remove="MultiDiceGame\**" />
     </ItemGroup>
 
     <ItemGroup>
       <None Remove="DiceLib\**" />
+      <None Remove="MultiDiceGame\**" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="DiceLib\DiceLib.csproj" />
+      <ProjectReference Include="MultiDiceGame\MultiDiceGame.csproj" />
     </ItemGroup>
 
 </Project>

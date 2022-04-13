@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "DiceGame/1.0.0": {
         "dependencies": {
-          "DiceLib": "1.0.0"
+          "DiceLib": "1.0.0",
+          "MultiDiceGame": "1.0.0"
         },
         "runtime": {
           "DiceGame.dll": {}
@@ -17,6 +18,11 @@
       "DiceLib/1.0.0": {
         "runtime": {
           "DiceLib.dll": {}
+        }
+      },
+      "MultiDiceGame/1.0.0": {
+        "runtime": {
+          "MultiDiceGame.dll": {}
         }
       }
     }
@@ -28,6 +34,11 @@
       "sha512": ""
     },
     "DiceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultiDiceGame/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

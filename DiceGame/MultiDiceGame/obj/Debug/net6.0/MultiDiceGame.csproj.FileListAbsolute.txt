@@ -1,0 +1,15 @@
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceGame
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceGame.deps.json
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceGame.runtimeconfig.json
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/bin/Debug/net6.0/MultiDiceGame.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.csproj.AssemblyReference.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.AssemblyInfoInputs.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.AssemblyInfo.cs
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.csproj.CoreCompileInputs.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/refint/MultiDiceGame.dll
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.pdb
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/MultiDiceGame.genruntimeconfig.cache
+/home/hobo/GitKraken/DiceGame/DiceGame/MultiDiceGame/obj/Debug/net6.0/ref/MultiDiceGame.dll
